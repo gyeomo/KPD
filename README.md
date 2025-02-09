@@ -18,10 +18,17 @@ tensorflow-gpu == 2.5.0
 defauts:
 Adversarial attacks: CW. 
 Model: VGG13 trained on CIFAR10.
+```sh
+create_examples.py  # it creates adversarial examples
+```
 
-create_examples.py # it creates adversarial examples
+```sh
 detector.py # it detects the adversarial examples.
+```
+
+```sh
 adaptive.py # it creates the adaptive attackk examples.
+```
 
 Modify "cifar_model.py" to run different pre-trained model.
 Modify "create_examples.py" to examine against more diverse attacks.
