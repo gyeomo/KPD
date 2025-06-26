@@ -1,7 +1,7 @@
 # KPD
 A Unified Detector for Both Adversarial Attacks and Out-of-Distribution Samples Based on Kernel Path Distribution (PAKDD 2025)
 
-[Link]([http://www.google.co.kr](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_5)).
+[Link](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_5).
 
 
 # Requirements
