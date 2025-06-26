@@ -1,5 +1,8 @@
 # KPD
-KPD: An Efficient and Effective Detector Against Adversarial Attacks and Out-of-Distribution based on Kernel Path Distribution (PAKDD 2025)
+A Unified Detector for Both Adversarial Attacks and Out-of-Distribution Samples Based on Kernel Path Distribution (PAKDD 2025)
+
+[Link]([http://www.google.co.kr](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_5)).
+
 
 # Requirements
 - CUDA == 11.1
@@ -35,5 +38,14 @@ Modify "cifar_model.py" to run different pre-trained model.
 
 Modify "create_examples.py" to examine against more diverse attacks.
 
-
-
+# Citation
+```bibtex
+@inproceedings{kim2025unified,
+  title={A Unified Detector for Both Adversarial Attacks and Out-of-Distribution Samples Based on Kernel Path Distribution},
+  author={Kim, Seonggyeom and Kim, Minju and Chae, Dong-Kyu},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={57--69},
+  year={2025},
+  organization={Springer}
+}
+```
