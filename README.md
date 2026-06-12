@@ -2,7 +2,7 @@
 **A Unified Detector for Both Adversarial Attacks and Out-of-Distribution Samples Based on Kernel Path Distribution ([PAKDD 2025](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_5))**
 
 <p align="center">
-  <img src="image.png" width="400">
+  <img src="image.png" width="600">
 </p>
 
 
